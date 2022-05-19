@@ -59,4 +59,5 @@ for op in option_elements:
     
 
 print(profit_007)
+print(profit_030)
 driver.quit()
